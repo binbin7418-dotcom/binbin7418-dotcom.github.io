@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://binbin7418-dotcom.github.io/sitemap.xml
